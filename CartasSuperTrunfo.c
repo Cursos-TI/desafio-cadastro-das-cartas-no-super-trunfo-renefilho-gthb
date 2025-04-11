@@ -14,7 +14,7 @@ struct Carta {
 int main() {
     struct Carta carta1, carta2;
 
-    // Leitura dos dados da carta 1
+    // Leitura dos dados da Carta 1
     printf("Digite os dados da Carta 1:\n");
 
     printf("Estado (A-H): ");
@@ -38,7 +38,7 @@ int main() {
     printf("Número de Pontos Turísticos: ");
     scanf("%d", &carta1.pontosTuristicos);
 
-    // Leitura dos dados da carta 2
+    // Leitura dos dados da Carta 2
     printf("\nDigite os dados da Carta 2:\n");
 
     printf("Estado (A-H): ");
